@@ -1,4 +1,5 @@
 import chromadb
+from chromadb.config import Settings
 import os
 from dotenv import load_dotenv
 import chromadb.utils.embedding_functions as embedding_functions
@@ -134,7 +135,13 @@ if __name__ == "__main__":
         process_json_all()
         logger.info(f"Répertoire {path} vide, ajout de fichiers JSON depuis ALL.json")
     try:
-        chroma_client = chromadb.HttpClient(host=chroma_host, port=chroma_port)
+        chroma_client = chromadb.Client(Settings(
+			anonymized_telemetry=False,
+			chroma_server_host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
+			chroma_server_ssl_enabled=True,
+			chroma_server_http_port=443
+		))
+		# chroma_client = chromadb.HttpClient(host=chroma_host, port=chroma_port)
         openai_ef = embedding_functions.OpenAIEmbeddingFunction(api_key=os.getenv("OPENAI_API_KEY"), model_name="text-embedding-3-small")
         list_files = os.listdir(path)
         json_to_save_db = {
