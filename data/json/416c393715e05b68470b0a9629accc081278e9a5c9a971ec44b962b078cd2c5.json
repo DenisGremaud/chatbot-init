@@ -1,0 +1,1529 @@
+{
+    "desc": [
+        "La table contient les données sur le nombre d'EPT (équivalents pleins temps) du personnel de l'UNIL sans les cliniciens et avec toutes les sources de financement par année civile (Lot_contratssap_C) ainsi que par catégories de personnel (FonctCat_UNIL_RG_L), par sexe (PersSex_UNIL_BEC_L) . Le 'value' corresponds au nombre d'EPTs."
+    ],
+    "data": [
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24.1015
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 16.7286
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 271.0651
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 375.7265
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 54.6435
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 61.0501
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 15.0707
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 34.0298
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 25.6539
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 176.4572
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 23.5746
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 16.4152
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 0.3333
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 269.4007
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 344.9014
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 56.135
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 49.418
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0.0381
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 0.0667
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 14.3215
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 34.2978
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 28.2762
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 172.499
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 17.0399
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 17.8281
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 0.0849
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 326.0553
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 391.2102
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 63.0134
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 107.0124
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 23.9199
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 11.6735
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 30.6378
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 31.5619
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 187.2323
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 17.5944
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 15.5778
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 402.8639
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 463.9085
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 74.9956
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 118.3773
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 0.1
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 17.5792
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 33.2088
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 36.7315
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 189.608
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 22.2853
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 17.4214
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 404.9475
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 439.4871
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 71.7822
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 116.7304
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 15.1119
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 17.6753
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 28.5807
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 36.8808
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 187.0098
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24.1718
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 19.1185
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 394.0878
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 435.5821
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 65.115
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 119.225
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 30.8501
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 16.0322
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 20.0235
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 30.2158
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 37.0444
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 182.5215
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24.5167
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 24.7922
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 409.0898
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 477.7282
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 69.1486
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 129.9271
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 41.69
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 21.8111
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 21.6442
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 27.7244
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 39.5906
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 183.1683
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 23.8731
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 22.5822
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 428.8257
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 502.6532
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 75.5309
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 139.4425
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 49.1097
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 16.9501
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 20.0559
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 24.0701
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 43.6602
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 188.4854
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 21.5597
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25.1693
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 467.1603
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 501.9225
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 84.071
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 150.1825
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 8.9659
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 5.5265
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 19.7424
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25.8269
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 48.7534
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 195.2561
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 21.0412
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 24.3305
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 507.3584
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 512.3716
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 82.964
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 146.3596
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 29.0735
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 21.7581
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 29.9712
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 51.9147
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 202.0928
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 23.1941
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25.7259
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 534.4297
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 524.4489
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 87.0152
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 144.5092
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 6.4021
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 27.4913
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 22.4025
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 31.7615
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 56.0647
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 159.6863
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24.8207
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 22.8352
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 566.5472
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 544.3246
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 91.3581
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 153.752
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7.3216
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 43.1342
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 26.6876
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 34.956
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 61.335
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 164.3073
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 25.8247
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 24.4197
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 598.6936
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 569.8952
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 96.8791
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 146.9864
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 25.7679
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 30.5923
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 22.5222
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 38.4483
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 69.672
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 173.3193
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29.8856
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 17.6231
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 611.3602
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 597.9709
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 101.1719
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 144.9348
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 37.1032
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 5.7048
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 22.5833
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 40.4386
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 78.3043
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 177.4226
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29.8633
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 16.6312
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 608.7977
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 587.0737
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 105.9111
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 121.7384
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 66.4239
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 29.5437
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 19.4956
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 39.7806
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 85.6746
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 235.5595
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 32.6043
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 14.9981
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 604.9077
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 612.1872
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 108.2651
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 129.743
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 39.1414
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 38.2463
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 19.8646
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 39.6983
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 91.5323
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 234.7715
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29.8709
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 20.2515
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 625.1618
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 547.5882
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 100.3614
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 129.5766
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 66.416
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 40.0017
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24.3399
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 32.6078
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 94.7421
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 244.504
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 32.629
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 17.3728
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 669.4726
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 627.4854
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 101.7255
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 152.1073
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 153.5588
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 57.6537
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 26.8313
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 28.6192
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 92.9543
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 251.8775
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 25.1271
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 14.2044
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 718.4916
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 626.5587
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 106.4875
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 152.8053
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 74.7293
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 11.3938
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 28.1595
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 30.864
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 97.5759
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 198.7636
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 31.813
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 17.8249
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 729.3169
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 661.3101
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 108.0165
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 154.9038
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 51.9336
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7.2382
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 31.1448
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 31.3273
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 99.4341
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 253.1965
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 32.5323
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 18.3512
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 711.7478
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 641.5955
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 110.0579
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 118.128
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 68.482
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6.3201
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29.288
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 30.7672
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 102.1842
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 250.9438
+        }
+    ]
+}

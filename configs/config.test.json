@@ -1,0 +1,123 @@
+{
+	"embedding_model": "text-embedding-3-small",
+	"collections": [
+	  {
+		"name": "students_autumn_faculty_domicile",
+		"description": [
+			"Ce retriever est basé sur une base de données de statistiques de l'Université de Lausanne.",
+			"Il permet de répondre à des questions concernant les inscriptions étudiants de l'Université de Lausanne. par faculté, selon le domicile avant l'inscription de 2011 à 2021.",
+            "la structure TOTAL_STUDENT_UNIL représente le nombre total d'étudiant inscrit à l'Université de Lausanne par année."
+		],
+		"files": [
+			{
+				"name": "student_enrollment_by_domicile_2011_2021",
+				"path": "data/students_autumn/student_enrollment_by_domicile_2011_2021.json",
+				"structure": "nested",
+				"root_key": "data",
+				"nested_structure": [
+				  {
+					"key": "year",
+					"type": "integer",
+					"is_root": true,
+					"add_to_metadata": true
+				  },
+				  {
+					"key": "faculty",
+					"type": "object",
+					"add_to_metadata": true,
+					"fields": [
+					  {
+						"key": "VD",
+						"type": "integer"
+					  },
+					  {
+						"key": "CH",
+						"type": "integer"
+					  },
+					  {
+						"key": "Int",
+						"type": "integer"
+					  },
+					  {
+						"key": "NR",
+						"type": "integer"
+					  },
+					  {
+						"key": "total",
+						"type": "integer"
+					  }
+					]
+				  }
+				]
+			}
+		]
+	  },
+	  {
+		"name": "abbreviations_and_acronyms",
+		"description": [
+			"Ce retriever est basé sur une base de données de statistiques de l'Université de Lausanne.",
+            "Il contient des abréviations et acronymes utilisés dans l'annuaire statistique de l'Université de Lausanne."
+		],
+		"files": [
+		  {
+			"name": "abbreviations_and_acronyms",
+			"path": "data/acronyms/acronyms.json",
+			"structure": "flat",
+			"root_key": "data",
+			"nested_structure": []
+		  }
+		]
+	  },
+	  {
+		"name": "demographics_and_population",
+		"description": [
+			"Ce retriever est basé sur une base de données de statistiques de l'Université de Lausanne.",
+            "Il permet de répondre à des questions concernant des données démographiques et de population pour le canton de Vaud et la Suisse. Ces données on été fournies par l'Office fédéral de la statistique.",
+            "Il comprend aussi des données sur les néssances 20 ans auparavant pour le canton de Vaud et la Suisse."
+		],
+		"files": [
+		  {
+			"name": "demographics_and_population",
+			"path": "data/demographic_data/demographic_data_2011_2022.json",
+			"structure": "nested",
+			"root_key": "data",
+			"nested_structure": [
+			  {
+				"key": "year",
+				"type": "integer",
+				"is_root": true,
+				"add_to_metadata": true,
+				"fields": [
+				  {
+					"key": "Nb_etudiants_CH",
+					"type": "integer"
+				  },
+				  {
+					"key": "Nb_etudiants_UNIL",
+					"type": "integer"
+				  },
+				  {
+					"key": "Nb_maturites_CH",
+					"type": "integer"
+				  },
+				  {
+					"key": "Nb_maturites_VD",
+					"type": "integer"
+				  },
+				  {
+					"key": "Nb_naissances_20_ans_plus_tot_CH",
+					"type": "integer"
+				  },
+				  {
+					"key": "Nb_naissances_20_ans_plus_tot_VD",
+					"type": "integer"
+				  }
+				]
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+  

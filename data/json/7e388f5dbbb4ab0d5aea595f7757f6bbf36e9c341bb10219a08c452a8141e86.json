@@ -1,0 +1,2489 @@
+{
+    "desc": [
+        "La table contient les données sur le nombre d'EPT (équivalents pleins temps) du personnel de l'UNIL sans les cliniciens et avec toutes les sources de financement par année civile (Lot_contratssap_C) ainsi que par sexe (PersSex_UNIL_BEC_L), par faculté (Us_UNISIS_30_L) . Le 'value' corresponds au nombre d'EPTs."
+    ],
+    "data": [
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 87.163
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 32.4992
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 6.6359
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 7.5347
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 36.2422
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 84.0384
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 56.577
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.2932
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 19.0524
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 60.4987
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 136.52
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 55.1412
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 22.5603
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 20.2103
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 89.0376
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 98.3758
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 68.4313
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.1059
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 23.1595
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 150.4503
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 125.7133
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 37.7793
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 6.1405
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 18.0593
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 36.8768
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 88.6112
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 65.0138
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.3743
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 12.5575
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.6201
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 189.1271
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 61.9399
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 25.1241
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 42.5113
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 101.2558
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 99.0935
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 81.7224
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.069
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 15.9551
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.7999
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 0.3333
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 154.0475
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 44.1556
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 8.2577
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 19.4705
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 42.9459
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 92.5897
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 78.1407
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.0425
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 9.6939
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 206.0474
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 79.0361
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 25.4894
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 74.9789
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 121.7726
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 144.4201
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 94.7392
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.357
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 0.0849
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 185.5128
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 49.8176
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 13.428
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 24.6822
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 53.8463
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 108.4749
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 103.1751
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 10.8277
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 225.546
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 69.3845
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 24.9129
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 78.4672
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 144.1168
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 156.1143
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 109.7751
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.3636
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 1.1
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 189.5207
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 51.2956
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 12.792
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 27.6965
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 53.6017
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 105.5525
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 103.5233
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 9.5888
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 225.9695
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 65.0408
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 27.493
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 80.6334
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 140.7326
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 144.9248
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 107.3139
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.8867
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.3466
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.1066
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 192.3072
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 62.0596
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 15.6521
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 43.4108
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 47.9263
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 104.9175
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 97.9385
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 6.974
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.3333
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 235.9192
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 76.0648
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 28.581
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 76.5837
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 126.6117
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 143.1181
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 101.1196
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 12.3637
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.5
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 200.6358
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 58.4402
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 15.5191
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 57.6139
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 49.7328
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 100.7963
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 110.7822
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.5641
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.0955
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 2
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 245.2314
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 85.1089
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.4775
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 92.6806
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 135.107
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 136.2255
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 124.827
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 2.4559
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.3717
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.6658
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.5
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 206.1407
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 61.4775
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 16.8885
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 40.8802
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 82.6746
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 106.889
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 113.0682
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 7.1223
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.4145
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 2
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 265.0914
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 85.0208
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.5609
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 99.2064
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 127.6571
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 143.5998
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 132.021
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 10.0261
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.3329
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 219.5956
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 49.0652
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 14.2093
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 42.7224
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 60.5869
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 118.3047
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 132.3684
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 8.9659
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.1014
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.0849
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 286.5346
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 81.5739
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.912
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 94.2778
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 123.0102
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 145.0403
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 133.3809
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0.5041
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 8.5651
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 236.9852
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 50.9898
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 13.6084
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 44.0744
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 68.7215
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 128.6059
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 137.6104
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.4408
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 13.0801
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 306.1422
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 100.2943
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 23.6873
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 97.7902
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 119.3004
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 138.1188
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 132.8504
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 5.512
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 7.4235
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 241.7256
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 50.3476
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 19.8628
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 53.1763
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 77.2659
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 140.8337
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 142.421
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0.6983
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 3.1771
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 260.0801
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 90.4551
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 24.736
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 120.3305
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 129.0734
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 139.0697
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 136.0591
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.4757
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 6.3435
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.4178
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 246.0869
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 59.685
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 24.2983
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 59.7108
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 81.442
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 149.637
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 151.1671
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0.7005
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.9248
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.1671
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 246.9616
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 127.35
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 23.2783
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 125.6551
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 144.8695
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 138.1078
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 143.8855
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 5.913
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 6.1214
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 17.9212
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 258.1214
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 66.7782
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 23.3704
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 62.6407
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 88.4622
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 157.177
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 159.013
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0.4307
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.4447
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 2.1337
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 253.7411
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 113.5862
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 25.4076
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 130.6114
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 146.7903
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 146.8596
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 151.9494
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.3336
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 6.2483
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 18.8078
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 278.1402
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 70.4421
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 24.2946
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 66.5825
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 86.9226
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 157.2135
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 159.3655
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 11.4222
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 7.2175
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 257.7185
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 110.9715
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 28.7599
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 119.0493
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 154.4898
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 147.8313
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 158.5523
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.7222
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 20.2857
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 280.1945
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 76.8677
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.9214
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 92.6312
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 88.0062
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 155.0261
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 157.5692
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 9.8449
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.8193
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.2674
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 281.9618
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 130.2877
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.2361
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 122.2736
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 158.1342
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 145.3848
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 156.6583
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.1232
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 20.4251
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 284.0142
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 86.4182
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.5368
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 67.3874
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 83.5731
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 155.9369
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 151.787
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 9.5789
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 7.6578
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 297.704
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 138.0512
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.9803
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 126.6483
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 159.775
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 150.4216
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 155.2996
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 7.0933
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 3.6711
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 21.2764
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 288.812
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 121.076
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 20.2068
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 73.4916
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 86.9632
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 158.3436
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 154.5516
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 11.3652
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.8057
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 308.932
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 136.8552
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 31.7133
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 134.3745
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 168.8463
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 146.0118
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 73.3779
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 7.6632
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.7556
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 22.2907
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 284.4735
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 129.4748
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 31.011
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 111.8384
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 131.9354
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 171.7269
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 175.0456
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 13.4167
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.9585
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 319.4572
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 132.2241
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 33.1052
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 149.4119
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 173.9804
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 147.3097
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 166.4785
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.3322
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.8167
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 22.0805
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 302.1845
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 101.0995
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 28.1912
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 123.0264
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 101.3673
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 168.5097
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 189.7578
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 14.354
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.4959
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 268.2003
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 108.3529
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 30.8698
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 127.9499
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 176.5139
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 147.797
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 163.698
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.3343
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.3778
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 21.472
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 305.5869
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 104.7676
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 13.9866
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 136.925
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 99.1676
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 169.5167
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 194.8093
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 5.4272
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.6712
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 342.3739
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 106.4798
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 32.6953
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 132.9625
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 182.6109
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 152.9422
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 172.1069
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 2.9581
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 25.4696
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 293.1822
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 108.4828
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 23.8877
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 137.0884
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 97.5958
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 168.6359
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 191.2484
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 8.7014
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 0.3578
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 329.9434
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 110.5162
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.9037
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 127.8037
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 175.9349
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 154.8494
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 132.5228
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.2739
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "embedding_model": "text-embedding-3-small",
+    "collections": [
+        {
+            "name": "students_autumn",
+            "files": [
+                {
+                    "name": "student_enrollment_by_faculty_2011_2021",
+                    "path": "data/students_autumn/student_enrollment_by_faculty_2011_2021.json",
+                    "structure": "nested",
+                    "root_key": "data",
+                    "nested_structure": [
+                        {
+                            "key": "year",
+                            "type": "integer",
+                            "is_root": true,
+                            "add_to_metadata": true
+                        },
+                        {
+                            "key": "faculty",
+                            "type": "object",
+                            "add_to_metadata": true,
+                            "fields": [
+                                {
+                                    "key": "femmes",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "hommes",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "etranger",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "CH",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "total",
+                                    "type": "integer"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "student_enrollment_by_domicile_2011_2021",
+                    "path": "data/students_autumn/student_enrollment_by_domicile_2011_2021.json",
+                    "structure": "nested",
+                    "root_key": "data",
+                    "nested_structure": [
+                        {
+                            "key": "year",
+                            "type": "integer",
+                            "is_root": true,
+                            "add_to_metadata": true
+                        },
+                        {
+                            "key": "faculty",
+                            "type": "object",
+                            "add_to_metadata": true,
+                            "fields": [
+                                {
+                                    "key": "VD",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "CH",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "Int",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "NR",
+                                    "type": "integer"
+                                },
+                                {
+                                    "key": "Tot",
+                                    "type": "integer"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "demographic_data_2011_2022",
+                    "path": "data/demographic_data/v2.json",
+                    "structure": "nested",
+                    "root_key": "data",
+                    "nested_structure": [
+                        {
+                            "key": "year",
+                            "type": "integer",
+                            "is_root": true,
+                            "add_to_metadata": true
+                        },
+                        {
+                            "key": "statistics",
+                            "type": "object",
+							"add_to_metadata": true,
+                            "fields": [
+                                {
+                                    "key": "Nb_etudiants",
+                                    "type": "object",
+                                    "fields": [
+                                        {
+                                            "key": "CH",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "key": "UNIL",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "key": "Nb_maturites",
+                                    "type": "object",
+                                    "fields": [
+                                        {
+                                            "key": "CH",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "key": "VD",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "key": "Nb_naissances_20_ans_plus_tot",
+                                    "type": "object",
+                                    "fields": [
+                                        {
+                                            "key": "CH",
+                                            "type": "integer"
+                                        },
+                                        {
+                                            "key": "VD",
+                                            "type": "integer"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "abbreviations_and_acronyms",
+                    "path": "data/acronyms/acronyms.json",
+                    "structure": "flat",
+                    "root_key": "data",
+                    "nested_structure": []
+                }
+            ]
+        }
+    ]
+}

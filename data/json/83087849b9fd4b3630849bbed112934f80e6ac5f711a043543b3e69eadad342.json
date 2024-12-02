@@ -1,0 +1,225 @@
+{
+    "desc": [
+        "La table contient les données sur le nombre d'EPT (équivalents pleins temps) du personnel de l'UNIL sans les cliniciens et avec toutes les sources de financement par année civile (Lot_contratssap_C) ainsi que par sexe (PersSex_UNIL_BEC_L) . Le 'value' corresponds au nombre d'EPTs."
+    ],
+    "data": [
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 390.5347
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 663.9922
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 391.7461
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 617.5981
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "value": 0.3333
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 449.344
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 757.8407
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "value": 0.0849
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 549.7646
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 820.7804
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 553.5711
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 804.3413
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 571.2926
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 802.6951
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 605.6799
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 865.1513
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 641.0555
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 894.1835
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 650.2527
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 903.8838
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 685.0364
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 944.1992
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 729.5083
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 913.6231
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 778.0702
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 963.3093
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 839.3595
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 983.6612
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 880.4085
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 984.0948
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 916.1662
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1030.3271
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 896.3154
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1069.6444
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 940.8921
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1014.5298
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1077.1715
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1135.1159
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1050.5709
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1034.5898
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1051.6589
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1125.8008
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1054.2922
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1066.1058
+        }
+    ]
+}

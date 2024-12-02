@@ -1,0 +1,23 @@
+services:
+  chromadb:
+    image: chromadb/chroma:0.5.5
+
+    ports:
+      - 3003:3003
+    container_name: chromadb
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://chromadb:3003/api/v1/tenants/default_tenant"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+
+  init:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: init-data
+    depends_on:
+      chromadb:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy

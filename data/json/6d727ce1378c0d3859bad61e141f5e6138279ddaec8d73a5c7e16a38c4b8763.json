@@ -1,0 +1,2761 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par niveau d'études (Niveau_RG_L), par faculté (FacHist_UNISIS_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1270
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 863
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 365
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1302
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1297
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1446
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 42
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Clinique",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 151
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 638
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 217
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 131
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 151
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 344
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 309
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 30
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 42
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 43
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 91
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 8
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 603
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 485
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 182
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 608
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 471
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 646
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 20
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 48
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 84
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 8
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 26
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1295
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 863
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 370
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1385
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1213
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1553
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 28
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Clinique",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 696
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 217
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 135
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 147
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 351
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 304
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 30
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 5
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 35
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 36
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 18
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 621
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 480
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 204
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 690
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 526
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 658
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 58
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 109
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 20
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1365
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 922
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 378
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1548
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1170
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1693
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 176
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 730
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 230
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 130
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 139
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 362
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 315
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 31
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 15
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 6
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 47
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 27
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 641
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 476
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 263
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 769
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 536
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 740
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 62
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 124
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 18
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 4
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1368
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 929
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 406
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1632
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1125
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1746
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 186
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 766
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 268
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 137
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 142
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 379
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 317
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 35
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 61
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 734
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 692
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 263
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 897
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 520
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 726
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 30
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 51
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 266
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 58
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 15
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1414
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 917
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 408
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1740
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1073
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1749
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 39
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 182
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 790
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 281
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 135
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 392
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 315
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 32
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 58
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 771
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 687
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 314
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1032
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 521
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 825
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 342
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 14
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1421
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 907
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 387
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1607
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1055
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1727
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 52
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 204
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 842
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 286
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 149
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 137
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 397
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 313
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 62
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 760
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 717
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 312
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1119
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 504
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 829
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 31
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 339
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 9
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 11
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1571
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 957
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 354
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1557
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 990
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1796
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 51
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 211
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 862
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 288
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 146
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 142
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 385
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 328
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 4
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 47
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 787
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 749
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 313
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1192
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 546
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 803
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 28
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 278
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 15
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 15
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1601
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1008
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 386
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1576
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1071
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1959
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 49
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 176
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 898
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 305
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 147
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 384
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 315
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 44
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 6
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 46
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 868
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 666
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 342
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1281
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 540
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 810
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 26
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 300
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 14
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1619
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1048
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 384
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1651
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1073
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2088
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 170
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 925
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 313
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 151
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 153
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 381
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 308
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 40
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 54
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 937
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 657
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 354
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1273
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 546
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 782
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 387
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 11
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 11
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1752
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1088
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 431
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1655
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1069
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2088
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 170
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 956
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 331
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 153
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 139
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 371
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 306
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 45
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 54
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 980
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 677
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 325
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1299
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 574
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 828
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 23
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 454
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 17
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1926
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1184
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 459
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1707
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1124
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2257
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 28
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 147
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1018
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 339
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 147
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 155
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 365
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 312
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 47
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 4
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 9
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 52
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1038
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 735
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 337
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1435
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 586
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 938
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 23
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 518
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1926
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1185
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 408
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1656
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1089
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2284
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 102
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1103
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 360
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 154
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 161
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 386
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 325
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 43
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 5
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1079
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 797
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 347
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1474
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 584
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1018
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 537
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1832
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1202
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 378
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1651
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1040
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2334
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 126
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1150
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 354
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 155
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 154
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 357
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 321
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 3
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 8
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 45
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1096
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 795
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 345
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1363
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 568
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1057
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 19
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 479
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 13
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1864
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1152
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 341
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1674
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 979
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2283
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 28
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1165
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 334
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 160
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 150
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 332
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 298
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1144
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 829
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 352
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1423
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 558
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1125
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 13
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 519
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 3
+        }
+    ]
+}

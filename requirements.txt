@@ -1,0 +1,9 @@
+tenacity==8.3.0
+chromadb
+python-dotenv
+openai
+langchain
+langchain_openai
+langchain_community
+psycopg[binary]
+pandas

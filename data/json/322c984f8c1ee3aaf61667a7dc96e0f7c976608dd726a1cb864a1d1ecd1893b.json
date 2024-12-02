@@ -1,0 +1,517 @@
+{
+    "desc": [
+        "La table contient les données sur la couverture des dépenses de l'UNIL pour le budget ordinaire par année civile (Date_SF_C) ainsi que par source de financement (Fin_AS_L) . Le 'value' corresponds à la couverture totale des dépenses en francs suisses (CHF)."
+    ],
+    "data": [
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Autres cantons",
+            "value": 60143225.85
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 296063001.49
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 10327982.25
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 76763202
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 9953027.39
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 15978160.38
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 117109066.86
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 5075407
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 469228599.36
+        },
+        {
+            "Date_SF_C": "2014",
+            "Fin_AS_L": "Total statistique",
+            "value": 459275571.97
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Autres cantons",
+            "value": 60193853.05
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 307093512.41
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 11159285.06
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 79132239
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 11194774.48
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 13893999.57
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 118968977.76
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 5075407
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 482667663.57
+        },
+        {
+            "Date_SF_C": "2015",
+            "Fin_AS_L": "Total statistique",
+            "value": 471472889.09
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Autres cantons",
+            "value": 58837481.65
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 310194866.48
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 10910835.72
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 82554779
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 10701848
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 14818896.45
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 121144676.42
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 5004976
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 488018707.3
+        },
+        {
+            "Date_SF_C": "2016",
+            "Fin_AS_L": "Total statistique",
+            "value": 477316859.3
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Autres cantons",
+            "value": 61981700.95
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 320267812.55
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 11432590.42
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 93526804
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 18044298.26
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 4832734.29
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 123510132.28
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 4987368
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 510085940.47
+        },
+        {
+            "Date_SF_C": "2017",
+            "Fin_AS_L": "Total statistique",
+            "value": 492041642.21
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Autres cantons",
+            "value": 63656363.85
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 324419064.76
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 11025998.12
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 94838665
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 9830128.21
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 14738314.31
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 124676245.68
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 5026985.65
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 3548787
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 518508534.25
+        },
+        {
+            "Date_SF_C": "2018",
+            "Fin_AS_L": "Total statistique",
+            "value": 508678406.04
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Autres cantons",
+            "value": 65819778.65
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 327258197.35
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 11758188.56
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 98299558
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 20007774.43
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 6435387.15
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 114729660.01
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Subvention à l'EPGL",
+            "value": 2625807.96
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 11222474
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 529578884.14
+        },
+        {
+            "Date_SF_C": "2019",
+            "Fin_AS_L": "Total statistique",
+            "value": 509571109.71
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Autres cantons",
+            "value": 67225544.9
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 327757237.91
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 12130729.63
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 101366524
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 18503625.29
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 5552300.39
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 117812726.82
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 11746717.3
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 532535962.12
+        },
+        {
+            "Date_SF_C": "2020",
+            "Fin_AS_L": "Total statistique",
+            "value": 514032336.83
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Autres cantons",
+            "value": 70633932.3
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 335268003.11
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 12811835
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 101495079
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 12628395.18
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 11821736.36
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 118928052.91
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 11894740.15
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 544658980.95
+        },
+        {
+            "Date_SF_C": "2021",
+            "Fin_AS_L": "Total statistique",
+            "value": 532030585.77
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Autres cantons",
+            "value": 72614481.6
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 341052702.81
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 12797458.7
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 102941236
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 10393440.61
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 16605850.74
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 120947814.05
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 11931619.15
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 556405170.46
+        },
+        {
+            "Date_SF_C": "2022",
+            "Fin_AS_L": "Total statistique",
+            "value": 546011729.85
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Autres cantons",
+            "value": 70454476.05
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Etat de Vaud",
+            "value": 360563445.21
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Etudiants, form. cont., congrès",
+            "value": 12769930.6
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "LEHE (anc. LAU)",
+            "value": 102280864
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Montants neutralisés",
+            "value": 12044262.25
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Recettes diverses",
+            "value": 19554741.04
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Subvention au CHUV",
+            "value": 120026465.77
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Subvention à la PMU (Unisanté)",
+            "value": 12060413
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Total compte UNIL",
+            "value": 577667719.15
+        },
+        {
+            "Date_SF_C": "2023",
+            "Fin_AS_L": "Total statistique",
+            "value": 565623456.9
+        }
+    ]
+}

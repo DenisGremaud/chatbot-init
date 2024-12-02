@@ -1,0 +1,147 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par sexe (PersSex_UNIL_BEC_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 6752
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 5376
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 6805
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 5469
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7125
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 5851
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7566
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6250
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7757
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6451
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7731
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6501
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 7822
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6646
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 8139
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6843
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 8530
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6869
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 8889
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6975
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9754
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7159
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9986
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7157
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9850
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7058
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9955
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 6996
+        }
+    ]
+}

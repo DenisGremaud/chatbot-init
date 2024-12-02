@@ -1,0 +1,1315 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par sexe (PersSex_UNIL_BEC_L), par faculté (FacHist_UNISIS_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1553
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 995
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 285
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 752
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1593
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1534
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 40
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1113
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 651
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 402
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1394
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 837
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 927
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 52
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1524
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 993
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 302
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 829
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1538
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1585
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 34
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1092
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 646
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 430
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1507
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 781
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 968
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 45
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1564
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1034
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 333
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 914
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1515
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1726
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 39
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1175
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 676
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 457
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1672
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 781
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1050
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 40
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1653
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1160
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 128
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 345
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 998
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1478
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1752
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 52
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1216
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 795
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 468
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1741
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 797
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1058
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1703
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1126
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 150
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 383
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1112
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1443
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1783
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 57
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1274
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 773
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 192
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 476
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1800
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 785
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1107
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 44
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1735
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1139
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 366
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1074
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1429
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1779
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 66
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1288
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 780
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 196
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 486
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1799
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 804
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1093
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 55
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1911
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1201
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 105
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 346
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1032
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1363
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1798
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 66
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1309
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 808
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 471
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1867
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 831
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1134
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 53
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1993
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1204
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 129
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 367
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1057
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1402
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1920
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 67
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1375
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 789
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 171
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 512
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1950
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 827
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1166
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 53
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2112
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1257
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 229
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 382
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1077
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1426
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1989
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 58
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1369
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 772
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 158
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 510
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2010
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 809
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1196
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 45
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2250
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1327
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 299
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 413
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1082
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1422
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2039
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 57
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1438
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 791
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 155
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 499
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2022
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 833
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1187
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 50
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2477
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1472
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 358
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 445
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1201
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1462
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2287
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 52
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1506
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 807
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 160
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 502
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2105
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 812
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1221
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 46
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2578
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1553
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 378
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 421
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1209
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1396
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2403
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 48
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1530
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 810
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 159
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 494
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2094
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 804
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1225
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 41
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2545
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1551
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 327
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 413
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1171
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1365
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2441
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1533
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 813
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 152
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 470
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2005
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 773
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1271
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 41
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2632
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1546
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 376
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 403
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 1174
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 1305
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2478
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 41
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 1542
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 776
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 451
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2083
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 734
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 1229
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 38
+        }
+    ]
+}

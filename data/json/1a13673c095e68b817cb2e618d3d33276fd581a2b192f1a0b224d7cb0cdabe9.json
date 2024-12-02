@@ -1,0 +1,527 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par niveau d'études (Niveau_RG_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 6585
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Clinique",
+            "value": 151
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 1820
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 102
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "value": 99
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "value": 3015
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 140
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 43
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 6707
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Clinique",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 1880
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 99
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "value": 19
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "value": 3200
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 167
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 27
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7098
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 176
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 1937
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 98
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "value": 3450
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 186
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7230
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 186
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2044
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 99
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "value": 3862
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 375
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 19
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7340
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 182
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2083
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 62
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "value": 4179
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 342
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 20
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7156
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 204
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2162
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 78
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "value": 4272
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 339
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7276
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 211
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2189
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 63
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "value": 4418
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 278
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 33
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7650
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 176
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2236
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 57
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "value": 4533
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 300
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 30
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 7901
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 170
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2271
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 73
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "value": 4573
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 387
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 8121
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 170
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2301
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 70
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "value": 4706
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 454
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 42
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 8685
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 147
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2383
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 66
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "value": 5092
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 518
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 8572
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 102
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2532
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 57
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "value": 5320
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 537
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 23
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 8458
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 126
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2528
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 57
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "value": 5243
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 479
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 17
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "value": 8321
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "value": 2476
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "value": 42
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "value": 5444
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "value": 519
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "value": 11
+        }
+    ]
+}

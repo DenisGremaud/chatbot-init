@@ -1,0 +1,637 @@
+{
+    "desc": [
+        "La table contient les données sur le nombre d'EPT (équivalents pleins temps) du personnel de l'UNIL sans les cliniciens et avec toutes les sources de financement par année civile (Lot_contratssap_C) ainsi que par catégories de personnel (FonctCat_UNIL_RG_L) . Le 'value' corresponds au nombre d'EPTs."
+    ],
+    "data": [
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 40.8301
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 646.7916
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 115.6936
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 49.1005
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 202.1111
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 40.3231
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 614.3021
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 105.553
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 0.1048
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 48.6193
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 200.7752
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 34.9529
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 717.2655
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 170.0258
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 23.9199
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 42.3113
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 218.7942
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 33.1722
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 866.7724
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 193.3729
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 0.1
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 50.788
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 226.3395
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 39.7067
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 844.4346
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 188.5126
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 15.1119
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 46.256
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 223.8906
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 43.2903
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 829.6699
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 184.34
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 46.8823
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 50.2393
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 219.5659
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 49.3089
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 886.818
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 199.0757
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 63.5011
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 49.3686
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 222.7589
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 46.4553
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 931.4789
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 214.9734
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 66.0598
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 44.126
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 232.1456
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 46.729
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 969.0828
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 234.2535
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 14.4924
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 45.5693
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 244.0095
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 45.3717
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1019.73
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 229.3236
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 29.0735
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 51.7293
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 254.0075
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 48.92
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1058.8786
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 231.5244
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 33.8934
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 54.164
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 215.751
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 47.6559
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1110.8718
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 245.1101
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 50.4558
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 61.6436
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 225.6423
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 50.2444
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1168.5888
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 243.8655
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 56.3602
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 60.9705
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 242.9913
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 47.5087
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1209.3311
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 246.1067
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 42.808
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 63.0219
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 255.7269
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 46.4945
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1195.8714
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 227.6495
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 95.9676
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 59.2762
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 321.2341
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 47.6024
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1217.0949
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 238.0081
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 77.3877
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 59.5629
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 326.3038
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 50.1224
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1172.75
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 229.938
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 106.4177
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 56.9477
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 339.2461
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 50.0018
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1296.958
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 253.8328
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 211.2125
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 55.4505
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 344.8318
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 39.3315
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1345.0503
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 259.2928
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 86.1231
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 59.0235
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 296.3395
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 49.6379
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1390.627
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 262.9203
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 59.1718
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 62.4721
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 352.6306
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Apprenants et stagiaires",
+            "value": 50.8835
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Assistants",
+            "value": 1353.3433
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Autres enseignants",
+            "value": 228.1859
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Personnel administratif et technique",
+            "value": 74.8021
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs assistants",
+            "value": 60.0552
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "FonctCat_UNIL_RG_L": "Professeurs ordinaires et associés",
+            "value": 353.128
+        }
+    ]
+}

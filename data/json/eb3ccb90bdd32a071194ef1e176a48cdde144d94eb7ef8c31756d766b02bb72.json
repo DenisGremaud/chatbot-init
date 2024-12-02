@@ -1,0 +1,63 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN). Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "value": 12128
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "value": 12274
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "value": 12976
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "value": 13816
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "value": 14208
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "value": 14232
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "value": 14468
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "value": 14982
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "value": 15399
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "value": 15864
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "value": 16913
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "value": 17143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "value": 16908
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "value": 16951
+        }
+    ]
+}

@@ -1,0 +1,552 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par faculté (FacHist_UNISIS_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2666
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1646
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 687
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2146
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2430
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2461
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 92
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2616
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1639
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 732
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2336
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2319
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2553
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 79
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2739
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1710
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 790
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2586
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2296
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2776
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 79
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2869
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1955
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 266
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 813
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2739
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2275
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2810
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 89
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 2977
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1899
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 342
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 859
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2912
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2228
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2890
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 101
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3023
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1919
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 339
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 852
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2873
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2233
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2872
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 121
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3220
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2009
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 278
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 817
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 2899
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2194
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 2932
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 119
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3368
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 1993
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 300
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 879
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3007
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2229
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3086
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 120
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3481
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2029
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 387
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 892
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3087
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2235
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3185
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 103
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3688
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2118
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 454
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 912
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3104
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2255
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3226
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 107
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 3983
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2279
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 518
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 947
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3306
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2274
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3508
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 98
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 4108
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2363
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 537
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 915
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3303
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2200
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3628
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 89
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 4078
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2364
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 479
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 883
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3176
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3712
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 78
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Biologie et Médecine",
+            "value": 4174
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Droit, sciences criminelles et administration publique",
+            "value": 2322
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Formation continue UNIL-EPFL",
+            "value": 519
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Géosciences et environnement",
+            "value": 854
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Hautes Etudes Commerciales",
+            "value": 3257
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Lettres",
+            "value": 2039
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Sciences Sociales et Politiques",
+            "value": 3707
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "FacHist_UNISIS_L": "Théologie et sciences des religions",
+            "value": 79
+        }
+    ]
+}

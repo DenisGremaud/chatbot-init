@@ -1,0 +1,47 @@
+{
+    "desc": [
+        "La table contient les données sur la couverture des dépenses de l'UNIL pour le budget ordinaire par année civile (Date_SF_C). Le 'value' corresponds à la couverture totale des dépenses en francs suisses (CHF)."
+    ],
+    "data": [
+        {
+            "Date_SF_C": "2014",
+            "value": 1519917244.55
+        },
+        {
+            "Date_SF_C": "2015",
+            "value": 1560852600.99
+        },
+        {
+            "Date_SF_C": "2016",
+            "value": 1579503926.32
+        },
+        {
+            "Date_SF_C": "2017",
+            "value": 1640711023.43
+        },
+        {
+            "Date_SF_C": "2018",
+            "value": 1678947492.87
+        },
+        {
+            "Date_SF_C": "2019",
+            "value": 1697306819.96
+        },
+        {
+            "Date_SF_C": "2020",
+            "value": 1708663705.19
+        },
+        {
+            "Date_SF_C": "2021",
+            "value": 1752171340.73
+        },
+        {
+            "Date_SF_C": "2022",
+            "value": 1791701503.97
+        },
+        {
+            "Date_SF_C": "2023",
+            "value": 1853045773.97
+        }
+    ]
+}

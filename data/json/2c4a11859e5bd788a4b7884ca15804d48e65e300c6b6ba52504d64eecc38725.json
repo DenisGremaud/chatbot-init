@@ -1,0 +1,1237 @@
+{
+    "desc": [
+        "La table contient les inscriptions des étudiants à l'UNIL par semestre académique (SemAcad_UNIL_SDN) ainsi que par niveau d'études (Niveau_RG_L), par sexe (PersSex_UNIL_BEC_L) . Le 'value' corresponds au nombre d'étudiants."
+    ],
+    "data": [
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3671
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2914
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Clinique",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 91
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Clinique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 60
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 144
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 888
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 932
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 77
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 65
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 34
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1728
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1287
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 59
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 81
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2010A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 14
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3748
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2959
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Clinique",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 150
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 23
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 924
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 956
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 59
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 40
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1837
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1363
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 66
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 101
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9
+        },
+        {
+            "SemAcad_UNIL_SDN": "2011A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 18
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3920
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3178
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 962
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 975
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 61
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1952
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1498
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 69
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 117
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 21
+        },
+        {
+            "SemAcad_UNIL_SDN": "2012A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 8
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3957
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3273
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 43
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1032
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1012
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 68
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 31
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Licence/diplôme",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2181
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1681
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 175
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 200
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 9
+        },
+        {
+            "SemAcad_UNIL_SDN": "2013A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3976
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3364
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 135
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 47
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1081
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1002
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 37
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2368
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1811
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 150
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 192
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2014A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3912
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3244
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 153
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 51
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1119
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1043
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 54
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2337
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1935
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 196
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 13
+        },
+        {
+            "SemAcad_UNIL_SDN": "2015A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 8
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4004
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3272
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 145
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 66
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1136
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1053
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 38
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2375
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2043
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 105
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 173
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 19
+        },
+        {
+            "SemAcad_UNIL_SDN": "2016A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 14
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4242
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3408
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 125
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 51
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1178
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1058
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 35
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2412
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2121
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 129
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 171
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 18
+        },
+        {
+            "SemAcad_UNIL_SDN": "2017A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4442
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3459
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 137
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 33
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1195
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1076
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 48
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2468
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2105
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 229
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 158
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 11
+        },
+        {
+            "SemAcad_UNIL_SDN": "2018A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 13
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4618
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3503
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 138
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 32
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1222
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1079
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 43
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 27
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2547
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2159
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 299
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 155
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2019A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 20
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 5101
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3584
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 116
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 31
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1283
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1100
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 44
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 2842
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2250
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 358
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 160
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2020A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 5058
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3514
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 82
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 20
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1372
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1160
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 29
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 28
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3056
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2264
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 378
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 159
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 11
+        },
+        {
+            "SemAcad_UNIL_SDN": "2021A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 12
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4950
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3508
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 104
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 22
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1377
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1151
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 32
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 25
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3050
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2193
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 327
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 152
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 10
+        },
+        {
+            "SemAcad_UNIL_SDN": "2022A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4929
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Bachelor",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 3392
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 107
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Diplôme EFLE",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 31
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 1357
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Doctorat",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 1119
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 24
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Formations complémentaires",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 18
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 3158
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 2286
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 376
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Master of advanced studies",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 143
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Femme",
+            "value": 4
+        },
+        {
+            "SemAcad_UNIL_SDN": "2023A",
+            "Niveau_RG_L": "Sans titre",
+            "PersSex_UNIL_BEC_L": "Homme",
+            "value": 7
+        }
+    ]
+}

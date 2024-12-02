@@ -1,0 +1,1052 @@
+{
+    "desc": [
+        "La table contient les données sur le nombre d'EPT (équivalents pleins temps) du personnel de l'UNIL sans les cliniciens et avec toutes les sources de financement par année civile (Lot_contratssap_C) ainsi que par faculté (Us_UNISIS_30_L) . Le 'value' corresponds au nombre d'EPTs."
+    ],
+    "data": [
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 223.683
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 87.6404
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 29.1962
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 27.745
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 125.2798
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 182.4142
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 125.0083
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.3991
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 42.2119
+        },
+        {
+            "Lot_contratssap_C": "2003",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 210.949
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 314.8404
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 99.7192
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 31.2646
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 60.5706
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 138.1326
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 187.7047
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 146.7362
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.4433
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 28.8459
+        },
+        {
+            "Lot_contratssap_C": "2004",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 1.42
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 360.0949
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 123.1917
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 33.7471
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 94.4494
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 164.7185
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 237.0098
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 172.8799
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Non-classé",
+            "value": 0.0425
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 21.1358
+        },
+        {
+            "Lot_contratssap_C": "2005",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 411.0588
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 119.2021
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 38.3409
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 103.1494
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 197.9631
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 264.5892
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 212.9502
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 22.1913
+        },
+        {
+            "Lot_contratssap_C": "2006",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 1.1
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 415.4902
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 116.3364
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 40.285
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 108.3299
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 194.3343
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 250.4773
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 210.8372
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 21.4755
+        },
+        {
+            "Lot_contratssap_C": "2007",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.3466
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.4399
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 428.2264
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 138.1244
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 44.2331
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 119.9945
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 174.538
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 248.0356
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 199.0581
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 19.3377
+        },
+        {
+            "Lot_contratssap_C": "2008",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 2.5
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 445.8672
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 143.5491
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 44.9966
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 150.2945
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 184.8398
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 237.0218
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 235.6092
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 9.02
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 16.4672
+        },
+        {
+            "Lot_contratssap_C": "2009",
+            "Us_UNISIS_30_L": "a. Faculté des sciences",
+            "value": 0.6658
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 2.5
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 471.2321
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 146.4983
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 46.4494
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 140.0866
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 210.3317
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 250.4888
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 245.0892
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 7.1223
+        },
+        {
+            "Lot_contratssap_C": "2010",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 15.4406
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.4178
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 506.1302
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 130.6391
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 44.1213
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 137.0002
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 183.5971
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 263.345
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 265.7493
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 9.47
+        },
+        {
+            "Lot_contratssap_C": "2011",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 12.6665
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 13.0801
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 543.1274
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 151.2841
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 37.2957
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 141.8646
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 188.0219
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 266.7247
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 270.4608
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 5.512
+        },
+        {
+            "Lot_contratssap_C": "2012",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.8643
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 501.8057
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 140.8027
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 44.5988
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 173.5068
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 206.3393
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 279.9034
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 278.4801
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 7.174
+        },
+        {
+            "Lot_contratssap_C": "2013",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 9.5206
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 1.5849
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 493.0485
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 187.035
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 47.5766
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 185.3659
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 226.3115
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 287.7448
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 295.0526
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.6135
+        },
+        {
+            "Lot_contratssap_C": "2014",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.0462
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 20.0549
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 511.8625
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 180.3644
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 48.778
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 193.2521
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 235.2525
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 304.0366
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 310.9624
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 6.7643
+        },
+        {
+            "Lot_contratssap_C": "2015",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.693
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 19.8078
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 535.8587
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 181.4136
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 53.0545
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 185.6318
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 241.4124
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 305.0448
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 317.9178
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 11.4222
+        },
+        {
+            "Lot_contratssap_C": "2016",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 12.9397
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 21.5531
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 562.1563
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 207.1554
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 59.1575
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 214.9048
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 246.1404
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 300.4109
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 314.2275
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 9.8449
+        },
+        {
+            "Lot_contratssap_C": "2017",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 10.9425
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 21.4251
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 581.7182
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 224.4694
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 59.5171
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 194.0357
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 243.3481
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 306.3585
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 307.0866
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 16.6722
+        },
+        {
+            "Lot_contratssap_C": "2018",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.3289
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 22.2764
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 597.744
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 257.9312
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 51.9201
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 207.8661
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 255.8095
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 304.3554
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 227.9295
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 19.0284
+        },
+        {
+            "Lot_contratssap_C": "2019",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 10.5613
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 23.2907
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 603.9307
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 261.6989
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 64.1162
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 261.2503
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 305.9158
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 319.0366
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 341.5241
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 19.7489
+        },
+        {
+            "Lot_contratssap_C": "2020",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 11.7752
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 22.5764
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 570.3848
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 209.4524
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 59.061
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 250.9763
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 277.8812
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 316.3067
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 353.4558
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 20.6883
+        },
+        {
+            "Lot_contratssap_C": "2021",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 4.3778
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 22.1432
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 647.9608
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 211.2474
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 46.6819
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 269.8875
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 281.7785
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 322.4589
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 366.9162
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2022",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 8.3853
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Centre de compétences suisse en sciences sociales",
+            "value": 25.8274
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté de biologie et de médecine",
+            "value": 623.1256
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté de droit, des sciences criminelles et d'administration publique",
+            "value": 218.999
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté de théologie et de sciences des religions",
+            "value": 53.7914
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté des géosciences et de l'environnement",
+            "value": 264.8921
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté des hautes études commerciales",
+            "value": 273.5307
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté des lettres",
+            "value": 323.4853
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Faculté des sciences sociales et politiques",
+            "value": 323.7712
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Formation continue UNIL-EPFL",
+            "value": 0
+        },
+        {
+            "Lot_contratssap_C": "2023",
+            "Us_UNISIS_30_L": "Services centraux",
+            "value": 12.9753
+        }
+    ]
+}
