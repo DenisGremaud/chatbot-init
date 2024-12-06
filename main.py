@@ -17,7 +17,7 @@ load_dotenv()
 logging_level = os.getenv("LOGGING_LEVEL", "DEBUG")
 
 if logging_level == "DEBUG":
-    logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 elif logging_level == "INFO":
     logging.basicConfig(level=logging.INFO)
 
@@ -28,11 +28,11 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 chroma_host = os.getenv("CHROMADB_HOST", "localhost")
 chroma_port = int(os.getenv("CHROMADB_PORT", 3003))
 
-postgres_user = os.getenv('POSTGRES_USER')
-postgres_password = os.getenv('POSTGRES_PASSWORD')
-postgres_db = os.getenv('POSTGRES_DB')
-postgres_host = os.getenv('POSTGRES_HOST', 'localhost')
-postgres_port = os.getenv('POSTGRES_PORT', 5432)
+postgres_user = os.getenv("POSTGRES_USER")
+postgres_password = os.getenv("POSTGRES_PASSWORD")
+postgres_db = os.getenv("POSTGRES_DB")
+postgres_host = os.getenv("POSTGRES_HOST", "localhost")
+postgres_port = os.getenv("POSTGRES_PORT", 5432)
 
 path = os.getenv("DATA_PATH", "data/json")
 
@@ -49,68 +49,78 @@ conn = psycopg.connect(
 def insert_collection(collection_name, description, host, port, search_k, hash_, last_update):
     with conn.cursor() as cursor:
         cursor.execute("""
-            INSERT INTO collections (collection_name, desc_collection, host, port, search_k, hash_collection, last_update)
+            INSERT INTO collections ("collectionName", "description", "host", "port", "searchK", "hashCollection", "lastUpdate")
             VALUES (%s, %s, %s, %s, %s, %s, %s)
         """, (collection_name, description, host, port, search_k, hash_, last_update))
         conn.commit()
-        logger.info(f"Collection {collection_name} insérée")
+        logger.info(f"Collection {collection_name} inserted")
 
 def update_collection(collection_name, description, host, port, search_k, hash_, last_update):
     with conn.cursor() as cursor:
         cursor.execute("""
             UPDATE collections
-            SET desc_collection = %s, host = %s, port = %s, search_k = %s, hash_collection = %s, last_update = %s
-            WHERE collection_name = %s
+            SET "description" = %s, "host" = %s, "port" = %s, "searchK" = %s, "hashCollection" = %s, "lastUpdate" = %s
+            WHERE "collectionName" = %s
         """, (description, host, port, search_k, hash_, last_update, collection_name))
         conn.commit()
-        logger.info(f"Collection {collection_name} mise à jour")
+        logger.info(f"Collection {collection_name} updated")
 
 def update_search_k(collection_name, search_k):
     with conn.cursor() as cursor:
         cursor.execute("""
             UPDATE collections
-            SET search_k = %s
-            WHERE collection_name = %s
+            SET "searchK" = %s
+            WHERE "collectionName" = %s
         """, (search_k, collection_name))
         conn.commit()
-        logger.info(f"search_k de la collection {collection_name} mis à jour")
+        logger.info(f"search_k for collection {collection_name} updated")
 
 def get_hash(collection_name):
     with conn.cursor() as cursor:
-        cursor.execute("SELECT hash_collection FROM collections WHERE collection_name = %s", (collection_name,))
+        cursor.execute('SELECT "hashCollection" FROM "collections" WHERE "collectionName" = %s', (collection_name,))
         hash_ = cursor.fetchone()
         return hash_
 
 def generate_hash(data):
     hash_object = hashlib.sha256()
-    hash_object.update(data.encode('utf-8'))
+    hash_object.update(data.encode("utf-8"))
     return hash_object.hexdigest()
 
 def pretty_print(json_data):
     return json.dumps(json_data, indent=4, ensure_ascii=False)
 
 def save_to_json_file(data, file_path):
-    with open(file_path, 'w', encoding='utf-8') as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def open_json_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def hash_file_content(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = f.read()
         hash_object = hashlib.sha256()
-        hash_object.update(data.encode('utf-8'))
+        hash_object.update(data.encode("utf-8"))
         return hash_object.hexdigest()
     
 def create_documents(data, metadata):
     documents = []
     for d in data:
         documents.append(Document(page_content=json.dumps(d, ensure_ascii=False), metadata=metadata))
-        logger.debug(f"Document créé: {pretty_print(documents[-1].page_content)}")
-        logger.debug(f"Métadonnées: {pretty_print(documents[-1].metadata)}")
+        logger.debug(f"Document created: {pretty_print(documents[-1].page_content)}")
+        logger.debug(f"Metadata: {pretty_print(documents[-1].metadata)}")
     return documents
+
+def test_connection():
+    with conn.cursor() as cursor:
+        cursor.execute("SELECT table_name FROM information_schema.tables WHERE table_schema='public'")
+        tables = cursor.fetchall()
+        logger.info(f"Tables: {tables}")
+        for table in tables:
+            cursor.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = '{table[0]}'")
+            columns = cursor.fetchall()
+            logger.info(f"Columns of {table[0]}: {columns}")
 
 def process_json_all():
     datas = open_json_file("data/ALL.json")
@@ -129,24 +139,25 @@ def process_json_all():
 if __name__ == "__main__":
     if not os.path.exists(path):
         os.makedirs(path)
-        logger.info(f"Création du répertoire {path}")
+        logger.info(f"Directory {path} created")
         process_json_all()
     elif len(os.listdir(path)) == 0:
         process_json_all()
-        logger.info(f"Répertoire {path} vide, ajout de fichiers JSON depuis ALL.json")
+        logger.info(f"Directory {path} is empty, adding JSON files from ALL.json")
     try:
         chroma_client = chromadb.Client(Settings(
-			anonymized_telemetry=False,
-			chroma_server_host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
-			chroma_server_ssl_enabled=True,
-			chroma_server_http_port=443
-		))
-		# chroma_client = chromadb.HttpClient(host=chroma_host, port=chroma_port)
+            anonymized_telemetry=False,
+            chroma_server_host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
+            chroma_server_ssl_enabled=True,
+            chroma_server_http_port=443
+        ))
         openai_ef = embedding_functions.OpenAIEmbeddingFunction(api_key=os.getenv("OPENAI_API_KEY"), model_name="text-embedding-3-small")
         list_files = os.listdir(path)
         json_to_save_db = {
             "all_collections": []
         }
+
+        test_connection()
         
         for f in list_files:
             data = open_json_file(f"{path}/{f}")
@@ -177,7 +188,7 @@ if __name__ == "__main__":
             existing_hash = get_hash(collection_name)
 
             if existing_hash is None:
-                logger.info(f"Insertion nécessaire pour la collection {collection_name}")
+                logger.info(f"Insertion needed for collection {collection_name}")
                 insert_collection(data_to_save_db["collection"], data_to_save_db["description"], data_to_save_db["host"], data_to_save_db["port"], data_to_save_db["search_k"], data_to_save_db["hash"], data_to_save_db["last_update"])
                 documents = create_documents(data, metadata)
                 for doc in documents:
@@ -186,9 +197,9 @@ if __name__ == "__main__":
                         metadatas=[doc.metadata],
                         documents=[doc.page_content]
                     )
-                logger.info(f"Ajout de {len(documents)} documents à la collection {collection.name}")
+                logger.info(f"Added {len(documents)} documents to collection {collection.name}")
             elif existing_hash[0] != new_data_hash:
-                logger.info(f"Mise à jour nécessaire pour la collection {collection_name}")
+                logger.info(f"Update needed for collection {collection_name}")
                 update_collection(data_to_save_db["collection"], data_to_save_db["description"], data_to_save_db["host"], data_to_save_db["port"], data_to_save_db["search_k"], data_to_save_db["hash"], data_to_save_db["last_update"])
                 documents = create_documents(data, metadata)
                 for doc in documents:
@@ -197,13 +208,13 @@ if __name__ == "__main__":
                         metadatas=[doc.metadata],
                         documents=[doc.page_content]
                     )
-                logger.info(f"Ajout de {len(documents)} documents à la collection {collection.name}")
+                logger.info(f"Added {len(documents)} documents to collection {collection.name}")
             else:
-                logger.info(f"Aucune mise à jour nécessaire pour la collection {collection_name}")
+                logger.info(f"No update needed for collection {collection_name}")
 
         logger.info(f"all_collections: {pretty_print(json_to_save_db)}")
     except Exception as e:
-        logger.error(f"Erreur lors de l'exécution du script: {str(e)}")
+        logger.error(f"Error during script execution: {str(e)}")
     finally:
         conn.close()
-        logger.info("Connexion à la base de données fermée")
+        logger.info("Database connection closed")
