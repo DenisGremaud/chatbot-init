@@ -145,12 +145,11 @@ if __name__ == "__main__":
         process_json_all()
         logger.info(f"Directory {path} is empty, adding JSON files from ALL.json")
     try:
-        chroma_client = chromadb.Client(Settings(
-            anonymized_telemetry=False,
-            chroma_server_host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
-            chroma_server_ssl_enabled=True,
-            chroma_server_http_port=443
-        ))
+        chroma_client = chromadb.HttpClient(
+			host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
+			port=443,
+			ssl=True
+		)
         openai_ef = embedding_functions.OpenAIEmbeddingFunction(api_key=os.getenv("OPENAI_API_KEY"), model_name="text-embedding-3-small")
         list_files = os.listdir(path)
         json_to_save_db = {
