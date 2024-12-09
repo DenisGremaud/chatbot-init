@@ -137,6 +137,13 @@ def process_json_all():
         save_to_json_file(data, f"{path}/{str_id}.json")
 
 if __name__ == "__main__":
+    search = input("Quel pourcentage de données voulez-vous pour le search_k ?(ex: 70) ")
+    if not search.isdigit():
+        logger.error("Veuillez entrer un nombre")
+        exit()
+    elif int(search) < 0 or int(search) > 100:
+        logger.error("Veuillez entrer un nombre entre 0 et 100")
+        exit()
     if not os.path.exists(path):
         os.makedirs(path)
         logger.info(f"Directory {path} created")
@@ -145,25 +152,16 @@ if __name__ == "__main__":
         process_json_all()
         logger.info(f"Directory {path} is empty, adding JSON files from ALL.json")
     try:
-        chroma_client = chromadb.HttpClient(
-            host=os.getenv("CHROMA_SERVER_HOST", "localhost"),
-            port=443,
-            ssl=True
-        )
-        openai_ef = embedding_functions.OpenAIEmbeddingFunction(api_key=os.getenv("OPENAI_API_KEY"), model_name="text-embedding-3-small")
         list_files = os.listdir(path)
         json_to_save_db = {
             "all_collections": []
         }
-
-        test_connection()
         
         for f in list_files:
             data = open_json_file(f"{path}/{f}")
             collection_name = f.split(".")[0]
             description = data.get("desc", None)[0]
-            data = data.get("data", None)
-            collection = chroma_client.get_or_create_collection(name=collection_name, embedding_function=openai_ef)               
+            data = data.get("data", None)          
             new_data_hash = hash_file_content(f"{path}/{f}")
 
             data_to_save_db = {
@@ -171,7 +169,7 @@ if __name__ == "__main__":
                 "description": description,
                 "host": chroma_host,
                 "port": chroma_port,
-                "search_k": int(len(data) * 0.6),
+                "search_k": int(len(data) * (int(search) / 100)),
                 "hash": new_data_hash,
                 "last_update": datetime.now().isoformat()
             }
@@ -183,35 +181,10 @@ if __name__ == "__main__":
             }
 
             json_to_save_db["all_collections"].append(data_to_save_db)
-
-            existing_hash = get_hash(collection_name)
-
-            if existing_hash is None:
-                logger.info(f"Insertion needed for collection {collection_name}")
-                insert_collection(data_to_save_db["collection"], data_to_save_db["description"], data_to_save_db["host"], data_to_save_db["port"], data_to_save_db["search_k"], data_to_save_db["hash"], data_to_save_db["last_update"])
-                documents = create_documents(data, metadata)
-                for doc in documents:
-                    collection.upsert(
-                        ids=[str(uuid.uuid1())],
-                        metadatas=[doc.metadata],
-                        documents=[doc.page_content]
-                    )
-                logger.info(f"Added {len(documents)} documents to collection {collection.name}")
-            elif existing_hash[0] != new_data_hash:
-                logger.info(f"Update needed for collection {collection_name}")
-                update_collection(data_to_save_db["collection"], data_to_save_db["description"], data_to_save_db["host"], data_to_save_db["port"], data_to_save_db["search_k"], data_to_save_db["hash"], data_to_save_db["last_update"])
-                documents = create_documents(data, metadata)
-                for doc in documents:
-                    collection.upsert(
-                        ids=[str(uuid.uuid1())],
-                        metadatas=[doc.metadata],
-                        documents=[doc.page_content]
-                    )
-                logger.info(f"Added {len(documents)} documents to collection {collection.name}")
-            else:
-                logger.info(f"No update needed for collection {collection_name}")
-
-        logger.info(f"all_collections: {pretty_print(json_to_save_db)}")
+            
+            logger.info(f"Update needed for collection {collection_name}")
+            update_collection(data_to_save_db["collection"], data_to_save_db["description"], data_to_save_db["host"], data_to_save_db["port"], data_to_save_db["search_k"], data_to_save_db["hash"], data_to_save_db["last_update"])
+            logger.info(f"search_k for collection {collection_name} updated")
     except Exception as e:
         logger.error(f"Error during script execution: {str(e)}")
     finally:
